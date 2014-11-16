@@ -2,7 +2,7 @@
 
 [Scoop Themes](http://scoopthemes.com) slider webstarter template [Bootstrap 3.3](http://getbootstrap.com/) based.
 
-Template Link & Preview [Slider Preview](http://www.scoopthemes.com/templates/full-slider/)
+Template Link & Preview [Slider Preview](http://scoopthemes.com/templates/slider-starter/)
 
 ### Author
 
